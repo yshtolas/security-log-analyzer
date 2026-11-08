@@ -1,0 +1,4 @@
+Nov 1 10:30:00 server sshd[1234]: Failed password for invalid user from 192.0.2.10 port 22 ssh2
+Nov 1 10:31:00 server sshd[1235]: Failed password for from 192.0.2.10 port 22 ssh2
+Nov 1 10:32:00 server sshd[1236]: Failed password for admin from 203.0.113.20 port 22 ssh2
+Nov 1 10:33:00 server sshd[1237]: Failed password for invalid user gilgamesh from 203.0.113.20 port 22 ssh2

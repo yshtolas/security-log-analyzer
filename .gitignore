@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated analysis reports
+security_report.txt
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
